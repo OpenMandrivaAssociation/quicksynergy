@@ -1,6 +1,6 @@
 Name:		quicksynergy
 Version:	0.9.0
-Release:	1
+Release:	2
 Summary:	Share keyboard and mouse between computers
 Group:		System/Configuration/Hardware
 License:	GPLv2+
