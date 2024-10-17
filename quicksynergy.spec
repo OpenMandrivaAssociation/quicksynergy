@@ -4,7 +4,7 @@ Release:	2
 Summary:	Share keyboard and mouse between computers
 Group:		System/Configuration/Hardware
 License:	GPLv2+
-URL:		http://code.google.com/p/quicksynergy/
+URL:		https://code.google.com/p/quicksynergy/
 Source0:	http://quicksynergy.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRequires:	gettext
 BuildRequires:	imagemagick
